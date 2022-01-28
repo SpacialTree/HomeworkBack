@@ -1,0 +1,26 @@
+# Savannah Gramze
+# Adjust for HW before turning in
+
+# Target to compile all
+all: range factorial natural
+
+# Target for program in natural.C and header.h, using factorial.C
+natural : natural.o
+	g++ -o natural natural.o
+natural.o : natural.C 
+	g++ -c natural.C
+
+# Target for program in range.C
+range : range.o
+	g++ -o range range.o
+range.o : range.C
+	g++ -c range.C
+
+# Target for program in factorial.C
+factorial : factorial.o
+	g++ -o factorial factorial.o
+factorial.o : factorial.C
+	g++ -c factorial.C
+
+clean : 
+	rm range factorial natural *.o
