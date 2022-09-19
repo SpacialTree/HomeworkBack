@@ -1,0 +1,12 @@
+\begin{table}
+\begin{tabular}{cc}
+Dark Exposure Time & Dark Average Counts \\
+$\mathrm{s}$ & $\mathrm{adu}$ \\
+0.05 & -5.1121914648212226 \\
+0.25 & -5.331184159938485 \\
+1.0 & -5.152750224272715 \\
+5.0 & -2.0652326028450596 \\
+25.0 & 10.530082019736 \\
+125.0 & 25.492663078303217 \\
+\end{tabular}
+\end{table}
