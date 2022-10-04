@@ -1,0 +1,9 @@
+\begin{table}
+\begin{tabular}{cccccc}
+Date & Object & Observatory & Exp Time & Exposures & Filter \\
+ &  &  & $\mathrm{s}$ &  &  \\
+2010-09-16 & Bias & Mt Bigelow & 0.0 & 100 & None \\
+2010-09-16 & Flat & Mt Bigelow & 5.0 & 100 & None \\
+2010-09-16 & WASP-10 & Mt Bigelow & 8.0 & 700 & Harris-V \\
+\end{tabular}
+\end{table}
