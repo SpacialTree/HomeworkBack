@@ -1,0 +1,13 @@
+\begin{table}
+\begin{tabular}{ccccccc}
+Target & Exposure Time (s) & Filters & Number of Exposures & ObsTime (UTC) & Right Ascension & Declination \\
+Bias & 0.04 & Photometric I & 30 & 2022-10-06T22:57:46.000 & - & - \\
+Dark & 20.0 & Clear & 20 & 2022-10-07T02:12:08.000 & - & - \\
+I-Band Flat & 0.2 & Photometric I & 10 & 2022-10-06T22:55:58.000 & - & - \\
+V-Band Flat & 0.1 & Photometric V & 10 & 2022-10-06T22:53:38.000 & - & - \\
+Messier 2 I-Band & 20.0 & Photometric I & 20 & 2022-10-07T02:00:36.000 & 21h33m27s & -00$^{\circ}$49'23.7" \\
+Messier 2 V-Band & 20.0 & Photometric V & 20 & 2022-10-07T01:51:05.000 & 21h33m27s & -00$^{\circ}$49'23.7" \\
+Vega I-Band & 0.5 & Photometric I & 10 & 2022-10-07T00:58:06.000 & 18h36m56s & +38$^{\circ}$47'1" \\
+Vega V-Band & 1.0 & Photometric V & 10 & 2022-10-07T00:56:21.000 & 18h36m56s & +38$^{\circ}$47'1" \\
+\end{tabular}
+\end{table}
