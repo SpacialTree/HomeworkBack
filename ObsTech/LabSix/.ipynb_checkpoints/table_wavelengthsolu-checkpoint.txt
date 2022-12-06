@@ -1,0 +1,12 @@
+\begin{table}
+\begin{tabular}{ccc}
+Pixel & Wavelength & Element \\
+$\mathrm{pix}$ & $\mathrm{nm}$ &  \\
+633.0 & 434.047 & Hydrogen \\
+382.0 & 486.133 & Hydrogen \\
+622.0 & 435.835 & Mercury \\
+93.0 & 546.074 & Mercury \\
+121.0 & 540.05616 & Neon \\
+151.0 & 534.10938 & Neon \\
+\end{tabular}
+\end{table}
